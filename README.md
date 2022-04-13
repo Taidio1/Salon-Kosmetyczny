@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/Taidio1/Salon.Kosmetyczny/main/FaktoriaUrody%20Mockup.jpg)
 
 
 ### Built With
